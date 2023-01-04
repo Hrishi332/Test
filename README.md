@@ -1,1 +1,2 @@
-# Test
+# Ubuntu-Azure-Django
+# AzureTestFolder
